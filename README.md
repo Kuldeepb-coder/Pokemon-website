@@ -1,6 +1,6 @@
 # Pokemon Website 🚀
 
-[![GitHub](https://img.shields.io/badge/github-Kuldeepb-coder-blue?style=flat-square)](https://github.com/Kuldeepb-coder/Pokemon-website)
+[![GitHub](https://img.shields.io/badge/GitHub-Kuldeepb--coder-blue?style=flat-square)](https://github.com/Kuldeepb-coder/Pokemon-website)
 [![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)](LICENSE)
 
 ---
